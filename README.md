@@ -1,2 +1,2 @@
 
-[Link](/MyBlog) 
+[My Blog](/MyBlog) 
